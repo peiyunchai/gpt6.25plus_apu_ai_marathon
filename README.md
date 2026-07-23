@@ -1,7 +1,6 @@
-# gpt6.25plus_apu_ai_marathon
-An AI-powered sales assistant that navigates product catalogs to recommend compatible components with explanations, optimises cost and performance, suggests next-best purchases and upgrades, and generates quotations based on customer budgets.
 # Autonomous Sales Engineer by GPT 6.25 Plus
 APU Marathon 2026 "LLM Everywhere" - Preliminary Round Submission  
+An AI-powered sales assistant that navigates product catalogs to recommend compatible components with explanations, optimises cost and performance, suggests next-best purchases and upgrades, and generates quotations based on customer budgets.
 
 ## Problem Statement
 Customers are usually looking for technical systems that complete, compatible, and budget-aware setups instead of individual product recommendations. Most existing recommendation systems fail to handle compatibility checking, performance optimization and delivery constraints, often leading to poor buying decisions and bad user experience.
